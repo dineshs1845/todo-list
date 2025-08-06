@@ -1,0 +1,31 @@
+{
+  "name": "quest-todo-working",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "expo": "^53.0.0",
+    "react": "19.0.0",
+    "react-native": "0.79.5",
+    "react-native-paper": "^5.10.1",
+    "@react-navigation/native": "^6.1.14",
+    "@react-navigation/native-stack": "^6.9.17",
+    "@supabase/supabase-js": "^2.43.3",
+    "react-native-safe-area-context": "5.4.0",
+    "react-native-screens": "~4.11.1",
+    "react-native-gesture-handler": "~2.24.0",
+    "react-native-reanimated": "~3.17.4",
+    "react-native-svg": "15.11.2",
+    "react-native-vector-icons": "^9.2.0",
+    "@react-native-masked-view/masked-view": "^0.3.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.23.0"
+  },
+  "private": true
+}
